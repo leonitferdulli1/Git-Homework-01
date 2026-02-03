@@ -1,0 +1,5 @@
+1. Git is a version control that tracks our code and keeps check of what changes were made to it.
+2. A repository (such as Github) stores our code for widespread easier access and collaborating with partners.
+3. Branches let us work in isolation so we don't mess up the master branch.
+4. Git commits are used to make a permanent record of our project, up until that point.
+5. Pull requests need to be reviewed first before they are merged back with the master branch.
