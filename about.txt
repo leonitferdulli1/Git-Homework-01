@@ -1,0 +1,1 @@
+My name is Leonit and I'm learning about git because it is a crucial tool to know for Web Developing and for tracking changes made to the code.
