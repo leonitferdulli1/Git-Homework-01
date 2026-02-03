@@ -1,1 +1,3 @@
-My name is Leonit and I'm learning about git because it is a crucial tool to know for Web Developing and for tracking changes made to the code.
+My name is Leonit and I'm learning about git because it is a crucial tool to know for Web Developing and for tracking changes made to the code. 
+Git changes are saved first locally in a hidden repository before being sent to a remote one.
+Common workflows involve branching and merging, allowing teams to work on features independently and integrate changes safely.
